@@ -252,8 +252,8 @@
     "Servers":{
        "Official":[
           {
-             "Address": "s1.hks.network",
-             "Port": 10017,
+             "Address": "5.42.211.21",
+             "Port": 35000,
              "Tags": ""
           },
       	  {
